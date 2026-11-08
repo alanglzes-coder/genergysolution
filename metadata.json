@@ -1,0 +1,6 @@
+{
+  "name": "GENERGY SOLUTION | Ecommerce Tecnológico",
+  "description": "Tienda online premium especializada en climatización inteligente, videovigilancia de alta definición y sistemas de energía solar fotovoltaica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
