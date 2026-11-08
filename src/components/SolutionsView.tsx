@@ -53,7 +53,7 @@ export const SolutionsView: React.FC = () => {
         <div className="rounded-2xl overflow-hidden bg-[#07182E] text-white p-8 sm:p-12 lg:p-16 mb-12 relative">
           <div className="absolute inset-0 opacity-20">
             <img
-              src="/src/assets/images/solutions_b2b_industrial_1794103568311.jpg"
+              src="/assets/images/solutions_b2b_industrial_1794103568311.jpg"
               alt="Instalaciones Industriales"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

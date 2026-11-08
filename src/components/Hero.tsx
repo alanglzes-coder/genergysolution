@@ -10,7 +10,7 @@ export const Hero: React.FC = () => {
       {/* Background Hero Image with measured contrast scrim */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_genergy_tech_1794103566606.jpg"
+          src="/assets/images/hero_genergy_tech_1794103566606.jpg"
           alt="GENERGY SOLUTION - Sede Corporativa & Tecnologías Integradas"
           className="w-full h-full object-cover object-center opacity-45 scale-105 transition-transform duration-1000"
           referrerPolicy="no-referrer"

@@ -66,7 +66,7 @@ export const SolutionsSection: React.FC = () => {
           
           <div className="lg:col-span-5 relative min-h-[300px] lg:min-h-full">
             <img
-              src="/src/assets/images/solutions_b2b_industrial_1794103568311.jpg"
+              src="/assets/images/solutions_b2b_industrial_1794103568311.jpg"
               alt="Planta Comercial e Industrial GENERGY SOLUTION"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

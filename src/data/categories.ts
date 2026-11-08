@@ -24,7 +24,7 @@ export const DIVISIONS: Record<Division, DivisionInfo> = {
     shortTitle: 'Climatización',
     tagline: 'Confort térmico de máxima eficiencia energética',
     description: 'Soluciones integrales de aire acondicionado para residencias, corporativos y complejos industriales. Sistemas Inverter R-32, unidades VRF multizona y chillers de alto rendimiento.',
-    image: '/src/assets/images/category_climatizacion_1794103568632.jpg',
+    image: '/assets/images/category_climatizacion_1794103568632.jpg',
     accentColor: '#20D4E8',
     subcategories: [
       { id: 'minisplit-inverter', name: 'Minisplits Inverter', count: 18, description: 'Equipos residenciales y comerciales de 1 a 3 toneladas con ahorro hasta 70% de energía.' },
@@ -40,7 +40,7 @@ export const DIVISIONS: Record<Division, DivisionInfo> = {
     shortTitle: 'Videovigilancia',
     tagline: 'Vigilancia continua con Inteligencia Artificial',
     description: 'Equipamiento profesional de circuito cerrado (CCTV) con analítica de video, visión nocturna ultra HD, reconocimiento facial, disuasión activa y protección perimetral.',
-    image: '/src/assets/images/category_videovigilancia_1794103567505.jpg',
+    image: '/assets/images/category_videovigilancia_1794103567505.jpg',
     accentColor: '#087BFF',
     subcategories: [
       { id: 'camaras-ip-4k', name: 'Cámaras IP 4K & Domos', count: 24, description: 'Resolución ultra HD, tecnología DarkFighter / ColorVu y clasificación de humanos/vehículos.' },
@@ -56,7 +56,7 @@ export const DIVISIONS: Record<Division, DivisionInfo> = {
     shortTitle: 'Energía Solar',
     tagline: 'Independencia energética y sostenibilidad real',
     description: 'Ingeniería fotovoltaica para autoconsumo residencial, comercial e industrial. Paneles solares Monocristalinos Tier-1, inversores híbridos y baterías de litio de respaldo.',
-    image: '/src/assets/images/category_solar_1794103568740.jpg',
+    image: '/assets/images/category_solar_1794103568740.jpg',
     accentColor: '#F5B82E',
     subcategories: [
       { id: 'paneles-monocristalinos', name: 'Módulos Fotovoltaicos Tier-1', count: 16, description: 'Paneles de alta eficiencia N-Type TOPCon de 450W a 670W con 25 años de garantía.' },
