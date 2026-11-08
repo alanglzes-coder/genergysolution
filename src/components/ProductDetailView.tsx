@@ -56,7 +56,7 @@ export const ProductDetailView: React.FC = () => {
     .slice(0, 3);
 
   // WhatsApp prefilled message
-  const whatsappUrl = `https://wa.me/525584219000?text=${encodeURIComponent(
+  const whatsappUrl = `https://wa.me/5215515909699?text=${encodeURIComponent(
     `Hola GENERGY SOLUTION, me interesa cotizar el equipo: ${selectedProduct.brand} ${selectedProduct.model} (${selectedProduct.name}). SKU: ${selectedProduct.sku}. ¿Podrían enviarme disponibilidad y precio formal?`
   )}`;
 

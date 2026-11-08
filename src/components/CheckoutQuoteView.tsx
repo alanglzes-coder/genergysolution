@@ -57,7 +57,7 @@ export const CheckoutQuoteView: React.FC = () => {
 
     const message = `*SOLICITUD FORMAL DE COTIZACIÓN - GENERGY SOLUTION*\nFolio: ${quoteNumber}\nCliente: ${formData.fullName}\nEmpresa: ${formData.company}\nCiudad: ${formData.city}\nTeléfono: ${formData.phone}\n\n*EQUIPOS SELECCIONADOS:*\n${summary}\n\nSubtotal: ${formatPrice(cartSubtotalMxn)}\nIVA 16%: ${formatPrice(cartSubtotalMxn * 0.16)}\n*TOTAL ESTIMADO: ${formatPrice(cartTotalMxn)}*\n\nNotas: ${formData.notes}`;
 
-    window.open(`https://wa.me/525584219000?text=${encodeURIComponent(message)}`, '_blank');
+    window.open(`https://wa.me/5215515909699?text=${encodeURIComponent(message)}`, '_blank');
     setIsGenerated(true);
     addToast('Cotización Formal Enviada', 'Redirigiendo a WhatsApp con tu asesor de ingeniería asignado', 'success');
   };

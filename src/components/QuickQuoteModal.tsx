@@ -42,7 +42,7 @@ export const QuickQuoteModal: React.FC = () => {
 
       // Open WhatsApp preview
       const text = `*SOLICITUD DE ASESORÍA / PROYECTO - GENERGY SOLUTION*\nNombre: ${form.fullName}\nEmpresa: ${form.company || 'Particular'}\nTeléfono: ${form.phone}\nCiudad: ${form.city}\nDivisión: ${form.division}\nTipo: ${form.projectType}\nPresupuesto estimado: ${form.estimatedBudget || 'Por definir'}\nRequerimientos: ${form.notes}`;
-      window.open(`https://wa.me/525584219000?text=${encodeURIComponent(text)}`, '_blank');
+      window.open(`https://wa.me/5215515909699?text=${encodeURIComponent(text)}`, '_blank');
     }, 600);
   };
 

@@ -28,7 +28,7 @@ export const Footer: React.FC = () => {
 
           <div className="flex items-center gap-3 shrink-0">
             <a
-              href="tel:+525584219000"
+              href="tel:+5215515909699"
               className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg bg-white/10 hover:bg-white/15 text-white text-xs font-semibold border border-white/20 transition-colors"
             >
               <Phone className="w-3.5 h-3.5 text-[#20D4E8]" />
@@ -36,7 +36,7 @@ export const Footer: React.FC = () => {
             </a>
 
             <a
-              href="https://wa.me/525584219000"
+              href="https://wa.me/5215515909699"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg bg-[#25D366] hover:bg-[#20ba5a] text-white text-xs font-bold transition-colors"

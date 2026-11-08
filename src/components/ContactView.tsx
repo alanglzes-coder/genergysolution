@@ -64,7 +64,7 @@ export const ContactView: React.FC = () => {
                   </div>
                   <div>
                     <div className="font-bold text-[#07182E]">Conmutador Nacional:</div>
-                    <a href="tel:+525584219000" className="text-[#087BFF] hover:underline font-mono text-sm font-semibold">
+                    <a href="tel:+5215515909699" className="text-[#087BFF] hover:underline font-mono text-sm font-semibold">
                       +52 (55) 1590-9699
                     </a>
                     <div className="text-[11px] text-slate-400">10 líneas disponibles</div>
@@ -78,7 +78,7 @@ export const ContactView: React.FC = () => {
                   <div>
                     <div className="font-bold text-[#07182E]">WhatsApp Oficial Comercial:</div>
                     <a 
-                      href="https://wa.me/525584219000" 
+                      href="https://wa.me/5215515909699" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-[#25D366] hover:underline font-mono text-sm font-semibold"

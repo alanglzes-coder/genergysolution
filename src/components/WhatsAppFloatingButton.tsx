@@ -16,7 +16,7 @@ export const WhatsAppFloatingButton: React.FC = () => {
         msgToSend = 'Hola GENERGY SOLUTION, me comunico desde la tienda online. Deseo solicitar asesoría técnica para un proyecto.';
       }
     }
-    window.open(`https://wa.me/525584219000?text=${encodeURIComponent(msgToSend)}`, '_blank');
+    window.open(`https://wa.me/5215515909699?text=${encodeURIComponent(msgToSend)}`, '_blank');
     setIsOpen(false);
     setMessage('');
   };

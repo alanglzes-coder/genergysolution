@@ -113,7 +113,7 @@ export const Header: React.FC = () => {
 
             {/* Direct Tech Support Phone */}
             <a 
-              href="tel:+525584219000" 
+              href="tel:+5215515909699" 
               className="hidden sm:flex items-center gap-1.5 text-slate-300 hover:text-white transition-colors"
             >
               <Phone className="w-3.5 h-3.5 text-[#20D4E8]" />
