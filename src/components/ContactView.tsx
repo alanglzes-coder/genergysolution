@@ -65,7 +65,7 @@ export const ContactView: React.FC = () => {
                   <div>
                     <div className="font-bold text-[#07182E]">Conmutador Nacional:</div>
                     <a href="tel:+525584219000" className="text-[#087BFF] hover:underline font-mono text-sm font-semibold">
-                      +52 (55) 8421-9000
+                      +52 (55) 1590-9699
                     </a>
                     <div className="text-[11px] text-slate-400">10 líneas disponibles</div>
                   </div>
@@ -83,7 +83,7 @@ export const ContactView: React.FC = () => {
                       rel="noopener noreferrer"
                       className="text-[#25D366] hover:underline font-mono text-sm font-semibold"
                     >
-                      +52 55 8421-9000
+                      +52 55 1590-9699
                     </a>
                     <div className="text-[11px] text-slate-400">Respuesta promedio: 5 minutos</div>
                   </div>
@@ -95,8 +95,8 @@ export const ContactView: React.FC = () => {
                   </div>
                   <div>
                     <div className="font-bold text-[#07182E]">Correo de Cotizaciones:</div>
-                    <a href="mailto:cotizaciones@genergy.com.mx" className="text-[#087BFF] hover:underline">
-                      cotizaciones@genergy.com.mx
+                    <a href="mailto:cotizaciones@genergysolution.com" className="text-[#087BFF] hover:underline">
+                      cotizaciones@genergysolution.com
                     </a>
                     <div className="text-[11px] text-slate-400">Recepción de memorias y planos PDF/DWG</div>
                   </div>
@@ -124,7 +124,6 @@ export const ContactView: React.FC = () => {
               <div className="space-y-3 text-xs">
                 <div className="p-3 bg-[#F4F7FB] rounded-lg border border-slate-200">
                   <div className="font-bold text-[#07182E]">Sede Corporativa & Centro Logístico CDMX</div>
-                  <div className="text-slate-600 mt-0.5">Av. Insurgentes Sur 1602, Crédito Constructor, Benito Juárez, 03940 Ciudad de México.</div>
                 </div>
 
                 <div className="p-3 bg-[#F4F7FB] rounded-lg border border-slate-200">

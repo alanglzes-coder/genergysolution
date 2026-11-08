@@ -150,9 +150,9 @@ export const CheckoutQuoteView: React.FC = () => {
               />
               <div className="text-xs text-slate-500 space-y-0.5">
                 <div>GENERGY SOLUTION S.A. DE C.V.</div>
-                <div>División de Climatización, Seguridad & Energía Solar</div>
-                <div>RFC: GSO210819K32 · Ciudad de México / Cobertura Nacional</div>
-                <div>Tel: +52 55 8421-9000 · contacto@genergy.com.mx</div>
+                <div>Climatización, Seguridad & Energía Solar</div>
+                <div>Edo de México / Cobertura Nacional</div>
+                <div>Tel: +52 55 1590-9699 · contacto@genergysolution.com</div>
               </div>
             </div>
 

@@ -32,7 +32,7 @@ export const Footer: React.FC = () => {
               className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg bg-white/10 hover:bg-white/15 text-white text-xs font-semibold border border-white/20 transition-colors"
             >
               <Phone className="w-3.5 h-3.5 text-[#20D4E8]" />
-              <span>(55) 8421-9000</span>
+              <span>(55) 1590-9699</span>
             </a>
 
             <a
@@ -206,7 +206,7 @@ export const Footer: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-slate-500 pt-2">
             <div>
-              © 2026 GENERGY SOLUTION S.A. de C.V. Todos los derechos reservados.
+              © 2026 GENERGY SOLUTION. Todos los derechos reservados.
             </div>
             <div className="flex items-center gap-4">
               <span className="hover:text-slate-300 cursor-pointer">Términos y Condiciones</span>

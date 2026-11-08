@@ -117,7 +117,7 @@ export const Header: React.FC = () => {
               className="hidden sm:flex items-center gap-1.5 text-slate-300 hover:text-white transition-colors"
             >
               <Phone className="w-3.5 h-3.5 text-[#20D4E8]" />
-              <span>(55) 8421-9000</span>
+              <span>(55) 1590-9699</span>
             </a>
 
             {/* WordPress / WooCommerce Architecture Visualizer Trigger */}
